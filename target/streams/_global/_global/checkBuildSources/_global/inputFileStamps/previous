@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/andrew/IdeaProjects/retirement_calculator/build.sbt","f5b6e9271aa0540ccff80fa3668467f20afa5cc3"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/andrew/IdeaProjects/retirement_calculator/build.sbt","a228aeb27e5408a2d0802f9dfcfb812520220e78"],["/home/andrew/IdeaProjects/retirement_calculator/project/assembly.sbt","9e536e250250d54f1d96ed5c69d72ce4918677cb"]],"lastModifiedTimes":[]}]
