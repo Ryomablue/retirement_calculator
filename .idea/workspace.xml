@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b08a767f-3ee2-4cf6-9390-639f47000f2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/retcalc/Returns.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/retcalc/ReturnsSpec.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/retcalc/RetCalc.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/retcalc/RetCalc.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/retcalc/RetCalcSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/retcalc/RetCalcSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/RetCalc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/RetCalc$FixedReturns$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/RetCalc$FixedReturns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/RetCalc$Returns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/RetCalc$VariableReturn$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/RetCalc$VariableReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/RetCalc$VariableReturns$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/RetCalc$VariableReturns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/RetCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/RetCalcSpec.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,58 +63,8 @@
     <property name="project.structure.side.proportion" value="0.25271058" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="ScalaTest.RetCalcSpec.VariableReturns.fromUntil should keep only a window of the returns">
-    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="retirement_calculator" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="javaOptions" value="-Djline.terminal=NONE" />
-      <option name="myConsoleArgs" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="ScalaTest.ReturnsSpec.Returns.monthlyRate should return a fixed rate for a FixedReturn&#10;Returns.monthlyRate should return the nth rate for VariableReturn&#10;Returns.monthlyRate should roll over from the first rate if n &gt; length&#10;Returns.monthlyRate should return the n+offset th rate for OffsetReturn">
     <configuration name="RetCalcSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="retirement_calculator" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="retcalc.RetCalcSpec" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RetCalcSpec.RetCalc.nbOfMonthsSaving should Calculate how long I need to save before I can retire" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="retirement_calculator" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="retcalc.RetCalcSpec" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RetCalcSpec.RetCalc.simulatePlan should calcualte the capital at retirement and the capital after death" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="retirement_calculator" />
       <option name="allowRunningInParallel" value="false" />
       <option name="testKind" value="Class" />
@@ -143,6 +105,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReturnsSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="retirement_calculator" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="retcalc.ReturnsSpec" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnsSpec.Returns.monthlyRate should return a fixed rate for a FixedReturn&#10;Returns.monthlyRate should return the nth rate for VariableReturn&#10;Returns.monthlyRate should roll over from the first rate if n &gt; length&#10;Returns.monthlyRate should return the n+offset th rate for OffsetReturn" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="retirement_calculator" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="retcalc.ReturnsSpec" />
+      <option name="testName" value="Returns.monthlyRate should return a fixed rate for a FixedReturn&#10;Returns.monthlyRate should return the nth rate for VariableReturn&#10;Returns.monthlyRate should roll over from the first rate if n &gt; length&#10;Returns.monthlyRate should return the n+offset th rate for OffsetReturn" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnsSpec.Returns.monthlyRate should return the nth rate for VariableReturn" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="retirement_calculator" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="retcalc.ReturnsSpec" />
+      <option name="testName" value="Returns.monthlyRate should return the nth rate for VariableReturn" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ScalaTests in 'retirement_calculator' (1)" type="ScalaTestRunConfiguration" factoryName="ScalaTest" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="retirement_calculator" />
       <option name="allowRunningInParallel" value="false" />
@@ -171,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.ReturnsSpec.Returns.monthlyRate should return a fixed rate for a FixedReturn&#10;Returns.monthlyRate should return the nth rate for VariableReturn&#10;Returns.monthlyRate should roll over from the first rate if n &gt; length&#10;Returns.monthlyRate should return the n+offset th rate for OffsetReturn" />
+        <item itemvalue="ScalaTest.ReturnsSpec" />
+        <item itemvalue="ScalaTest.ReturnsSpec.Returns.monthlyRate should return the nth rate for VariableReturn" />
         <item itemvalue="ScalaTest.RetCalcSpec.VariableReturns.fromUntil should keep only a window of the returns" />
         <item itemvalue="ScalaTest.RetCalcSpec" />
-        <item itemvalue="ScalaTest.RetCalcSpec.RetCalc.nbOfMonthsSaving should Calculate how long I need to save before I can retire" />
-        <item itemvalue="Scala REPL.Scala REPL" />
-        <item itemvalue="ScalaTest.RetCalcSpec.RetCalc.simulatePlan should calcualte the capital at retirement and the capital after death" />
       </list>
     </recent_temporary>
   </component>
@@ -254,6 +278,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2589" y="166" width="571" height="782" key="#ScalaTests_in_'retirement_calculator'_(1)/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579373418194" />
+    <state x="2613" y="311" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579548128737">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="311" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579548128737" />
     <state x="2688" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1579471495133">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -266,22 +294,22 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2526" y="302" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579373814282" />
-    <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1579473422833">
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1579549162102">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579473422833" />
-    <state width="1878" height="269" key="GridCell.Tab.0.center" timestamp="1579473422833">
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579549162102" />
+    <state width="1878" height="269" key="GridCell.Tab.0.center" timestamp="1579549162102">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579473422833" />
-    <state width="1878" height="269" key="GridCell.Tab.0.left" timestamp="1579473422832">
+    <state width="1878" height="269" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579549162102" />
+    <state width="1878" height="269" key="GridCell.Tab.0.left" timestamp="1579549162102">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579473422832" />
-    <state width="1878" height="269" key="GridCell.Tab.0.right" timestamp="1579473422833">
+    <state width="1878" height="269" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579549162102" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right" timestamp="1579549162102">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579473422833" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579549162102" />
     <state x="2087" y="126" width="1412" height="836" key="SettingsEditor" timestamp="1579373817695">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
