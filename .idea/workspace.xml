@@ -51,7 +51,7 @@
     <property name="project.structure.side.proportion" value="0.25271058" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="ScalaTest.RetCalcSpec">
+  <component name="RunManager" selected="ScalaTest.RetCalcSpec.VariableReturns.fromUntil should keep only a window of the returns">
     <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="retirement_calculator" />
       <option name="allowRunningInParallel" value="false" />
@@ -95,7 +95,6 @@
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
       <option name="testClassPath" value="retcalc.RetCalcSpec" />
-      <option name="testName" value="RetCalc.nbOfMonthsSaving should Calculate how long I need to save before I can retire" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -123,7 +122,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScalaTests in 'retcalc'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="RetCalcSpec.VariableReturns.fromUntil should keep only a window of the returns" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="retirement_calculator" />
       <option name="allowRunningInParallel" value="false" />
       <option name="testKind" value="Class" />
@@ -135,7 +134,8 @@
       <option name="searchTest" value="Across module dependencies" />
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
-      <option name="testClassPath" value="" />
+      <option name="testClassPath" value="retcalc.RetCalcSpec" />
+      <option name="testName" value="VariableReturns.fromUntil should keep only a window of the returns" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -171,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.RetCalcSpec.VariableReturns.fromUntil should keep only a window of the returns" />
         <item itemvalue="ScalaTest.RetCalcSpec" />
         <item itemvalue="ScalaTest.RetCalcSpec.RetCalc.nbOfMonthsSaving should Calculate how long I need to save before I can retire" />
         <item itemvalue="Scala REPL.Scala REPL" />
         <item itemvalue="ScalaTest.RetCalcSpec.RetCalc.simulatePlan should calcualte the capital at retirement and the capital after death" />
-        <item itemvalue="ScalaTest.RetCalcSpec" />
       </list>
     </recent_temporary>
   </component>
@@ -266,30 +266,30 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2526" y="302" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579373814282" />
-    <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1579472392585">
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1579473422833">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579472392585" />
-    <state width="1878" height="269" key="GridCell.Tab.0.center" timestamp="1579472392585">
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579473422833" />
+    <state width="1878" height="269" key="GridCell.Tab.0.center" timestamp="1579473422833">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579472392585" />
-    <state width="1878" height="269" key="GridCell.Tab.0.left" timestamp="1579472392585">
+    <state width="1878" height="269" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579473422833" />
+    <state width="1878" height="269" key="GridCell.Tab.0.left" timestamp="1579473422832">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579472392585" />
-    <state width="1878" height="269" key="GridCell.Tab.0.right" timestamp="1579472392585">
+    <state width="1878" height="269" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579473422832" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right" timestamp="1579473422833">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579472392585" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579473422833" />
     <state x="2087" y="126" width="1412" height="836" key="SettingsEditor" timestamp="1579373817695">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2087" y="126" width="1412" height="836" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579373817695" />
-    <state x="2559" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1579469052148">
+    <state x="2559" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1579545343212">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2559" y="381" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579469052148" />
+    <state x="2559" y="381" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579545343212" />
     <state x="2613" y="546" width="546" height="227" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579373729794">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
