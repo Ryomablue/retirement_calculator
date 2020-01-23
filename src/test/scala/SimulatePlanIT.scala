@@ -11,9 +11,8 @@ class SimulatePlanAppIT extends WordSpec with Matchers with TypeCheckedTripleEqu
 
       val expectedResult =
         s"""
-           |Capital after 25 years of savings:    499923
-           |Capital after 40 years in retirement: 586435
-        """.stripMargin
+           |Capital after 25 years of savings: 499923
+           |Capital after 40 years in retirement: 586435""".stripMargin
       actualResult should === (expectedResult)
     }
   }

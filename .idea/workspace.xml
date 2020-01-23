@@ -2,45 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b08a767f-3ee2-4cf6-9390-639f47000f2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/assembly.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/resources/cpi_2017.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/resources/sp500_2017.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/retcalc/EquityData.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/retcalc/InflationData.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/retcalc/SimulatePlanApp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cpi_2017.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/sp500_2017.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/EquityDataSpec.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/InflationDataSpec.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/SimulatePlanIT.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/cpi_2017.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/sp500_2017.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/assembly" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cpi.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sp500.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/cpi.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/sp500.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/retirement_calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/retirement_calculator.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$08d7d19b43e1c0e48863$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$08d7d19b43e1c0e48863.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$08d7d19b43e1c0e48863.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$39105daca87933feaa1b$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$39105daca87933feaa1b.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$39105daca87933feaa1b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$45694d49a6d3f13ab06c$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$45694d49a6d3f13ab06c.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$45694d49a6d3f13ab06c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$65eb7439430629557741$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$65eb7439430629557741.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$65eb7439430629557741.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d891c8a8633f9a366b81$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d891c8a8633f9a366b81.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d891c8a8633f9a366b81.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e96e912376fe8ccd505b$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e96e912376fe8ccd505b.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e96e912376fe8ccd505b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/retcalc/RetCalc.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/retcalc/RetCalc.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/retcalc/RetCalcSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/RetCalcSpec.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/retcalc/Returns.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/retcalc/Returns.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/retcalc/ReturnsSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/ReturnsSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/assembly.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bd685adfaf2d6e997fad$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bd685adfaf2d6e997fad.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bd685adfaf2d6e997fad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bded58fb90eedca48902$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bded58fb90eedca48902.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bded58fb90eedca48902.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bdfd1a1fac6a23efbc34$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bdfd1a1fac6a23efbc34.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bdfd1a1fac6a23efbc34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c8a6c7e2a3be3360f663$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c8a6c7e2a3be3360f663.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c8a6c7e2a3be3360f663.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cdaf6fccd0a34a1ce407$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cdaf6fccd0a34a1ce407.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cdaf6fccd0a34a1ce407.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f0f70460d1cd43ec3cfc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f0f70460d1cd43ec3cfc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f0f70460d1cd43ec3cfc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/retcalc/SimulatePlanApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/retcalc/SimulatePlanApp.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/SimulatePlanIT.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/SimulatePlanIT.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/SimulatePlanApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/SimulatePlanApp$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/retcalc/SimulatePlanAppIT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/retcalc/SimulatePlanAppIT.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +50,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="retirement_calculator" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,6 +76,8 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -90,7 +86,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.25271058" />
@@ -104,7 +100,7 @@
       <recent name="$PROJECT_DIR$/src/main/scala" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.ScalaTests in 'retirement_calculator' (1)">
+  <component name="RunManager" selected="Application.SimulatePlanApp">
     <configuration name="SimulatePlanApp" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="retcalc.SimulatePlanApp" />
       <module name="retirement_calculator" />
@@ -240,9 +236,9 @@
       <list>
         <item itemvalue="Application.SimulatePlanApp" />
         <item itemvalue="ScalaTest.SimulatePlanAppIT" />
+        <item itemvalue="ScalaTest.SimulatePlanAppIT" />
         <item itemvalue="ScalaTest.SimulatePlanIT" />
         <item itemvalue="ScalaTest.RetCalcSpec" />
-        <item itemvalue="ScalaTest.InflationDataSpec" />
       </list>
     </recent_temporary>
   </component>
@@ -273,8 +269,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3158743624018" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="3277022088" />
+        <entry key="$PROJECT_DIR$" value="4738493826586" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1684770324" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="3441400446" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="3666975207" />
       </map>
     </option>
@@ -334,14 +331,18 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2613" y="311" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579557046632" />
-    <state x="2338" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579561750279">
+    <state x="2338" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579743395246">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2338" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579561750279" />
-    <state x="2597" y="359" width="556" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579553439786">
+    <state x="2338" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743395246" />
+    <state x="200" y="65" width="1710" height="860" maximized="true" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579743363872">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="200" y="65" width="1710" height="860" maximized="true" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743363872" />
+    <state x="2597" y="359" width="556" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579743558993">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2597" y="359" width="556" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579553439786" />
+    <state x="2597" y="359" width="556" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743558993" />
     <state x="2688" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1579471495133">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -362,22 +363,26 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2526" y="302" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579373814282" />
-    <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1579562091509">
+    <state x="2663" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1579743898549">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579562091509" />
-    <state width="1878" height="269" key="GridCell.Tab.0.center" timestamp="1579562091509">
+    <state x="2663" y="311" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743898549" />
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1579743969567">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579562091509" />
-    <state width="1878" height="269" key="GridCell.Tab.0.left" timestamp="1579562091509">
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743969567" />
+    <state width="1878" height="269" key="GridCell.Tab.0.center" timestamp="1579743969567">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579562091509" />
-    <state width="1878" height="269" key="GridCell.Tab.0.right" timestamp="1579562091509">
+    <state width="1878" height="269" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743969567" />
+    <state width="1878" height="269" key="GridCell.Tab.0.left" timestamp="1579743969567">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579562091509" />
+    <state width="1878" height="269" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743969567" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right" timestamp="1579743969567">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="269" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743969567" />
     <state width="1878" height="332" key="GridCell.Tab.1.bottom" timestamp="1579561738894">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
