@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/andrew/IdeaProjects/retirement_calculator/src/test/resources/sp500_2017.tsv,/home/andrew/IdeaProjects/retirement_calculator/target/scala-2.13/test-classes/sp500_2017.tsv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/andrew/IdeaProjects/retirement_calculator/src/test/resources/cpi_2017.tsv,/home/andrew/IdeaProjects/retirement_calculator/target/scala-2.13/test-classes/cpi_2017.tsv)[0m

@@ -2,36 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b08a767f-3ee2-4cf6-9390-639f47000f2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/assembly" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cpi.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/sp500.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/cpi.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/sp500.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_13_1_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_13_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_13_3_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_13_3_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_compatible_3_1_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_scalactic_scalactic_2_13_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org_scalactic_scalactic_2_13_3_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_scalatest_scalatest_2_13_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org_scalatest_scalatest_2_13_3_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/retirement_calculator-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/retirement_calculator-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/retirement_calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/retirement_calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/assembly.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bd685adfaf2d6e997fad$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bd685adfaf2d6e997fad.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bd685adfaf2d6e997fad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bded58fb90eedca48902$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bded58fb90eedca48902.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bded58fb90eedca48902.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bdfd1a1fac6a23efbc34$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bdfd1a1fac6a23efbc34.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bdfd1a1fac6a23efbc34.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c8a6c7e2a3be3360f663$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c8a6c7e2a3be3360f663.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c8a6c7e2a3be3360f663.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cdaf6fccd0a34a1ce407$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cdaf6fccd0a34a1ce407.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cdaf6fccd0a34a1ce407.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f0f70460d1cd43ec3cfc$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f0f70460d1cd43ec3cfc.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f0f70460d1cd43ec3cfc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/retcalc/SimulatePlanApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/retcalc/SimulatePlanApp.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/SimulatePlanIT.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/SimulatePlanIT.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/SimulatePlanApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/retcalc/SimulatePlanApp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/retcalc/SimulatePlanAppIT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/retcalc/SimulatePlanAppIT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$08d7d19b43e1c0e48863$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$08d7d19b43e1c0e48863.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$08d7d19b43e1c0e48863.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3979d11a07058556ffb8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3979d11a07058556ffb8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3979d11a07058556ffb8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$45694d49a6d3f13ab06c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$45694d49a6d3f13ab06c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$45694d49a6d3f13ab06c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bc377f47695063d9a87$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bc377f47695063d9a87.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6bc377f47695063d9a87.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a9da082a30a47290dacb$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a9da082a30a47290dacb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a9da082a30a47290dacb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e96e912376fe8ccd505b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e96e912376fe8ccd505b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e96e912376fe8ccd505b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/ssExtractDependencies/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/ssExtractDependencies/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,11 +118,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="last_opened_file_path" value="$USER_HOME$/code/Scala-Learning" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.25271058" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="project.structure.side.proportion" value="0.32921347" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -100,7 +132,7 @@
       <recent name="$PROJECT_DIR$/src/main/scala" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimulatePlanApp">
+  <component name="RunManager" selected="sbt Task.Assembly">
     <configuration name="SimulatePlanApp" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="retcalc.SimulatePlanApp" />
       <module name="retirement_calculator" />
@@ -115,21 +147,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InflationDataSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="Assembly" type="SbtRunConfiguration" factoryName="sbt Task" editBeforeRun="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="assembly" />
+      <option name="useSbtShell" value="false" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SbtRunConfiguration" factoryName="sbt Task" editBeforeRun="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="assembly" />
+      <option name="useSbtShell" value="true" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="retirement_calculator" />
       <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="InflationDataSpec" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -226,19 +268,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.SimulatePlanApp" />
+      <item itemvalue="sbt Task.Assembly" />
+      <item itemvalue="Scala REPL.Scala REPL" />
       <item itemvalue="ScalaTest.ScalaTests in 'retirement_calculator' (1)" />
-      <item itemvalue="ScalaTest.InflationDataSpec" />
       <item itemvalue="ScalaTest.RetCalcSpec" />
-      <item itemvalue="ScalaTest.SimulatePlanIT" />
       <item itemvalue="ScalaTest.SimulatePlanAppIT" />
+      <item itemvalue="ScalaTest.SimulatePlanIT" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SimulatePlanApp" />
+        <item itemvalue="Scala REPL.Scala REPL" />
         <item itemvalue="ScalaTest.SimulatePlanAppIT" />
         <item itemvalue="ScalaTest.SimulatePlanAppIT" />
         <item itemvalue="ScalaTest.SimulatePlanIT" />
-        <item itemvalue="ScalaTest.RetCalcSpec" />
       </list>
     </recent_temporary>
   </component>
@@ -269,15 +312,10 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4738493826586" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="1684770324" />
+        <entry key="$PROJECT_DIR$" value="3159459069729" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="157670338" />
         <entry key="$PROJECT_DIR$/project/assembly.sbt" value="3441400446" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="3666975207" />
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
   </component>
@@ -307,6 +345,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2589" y="290" width="571" height="534" key="#Assembly" timestamp="1580090473593">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2589" y="290" width="571" height="534" key="#Assembly/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580090473593" />
     <state x="2475" y="215" width="800" height="684" key="#Auto_Import" timestamp="1579558513845">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -315,10 +357,14 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2475" y="215" width="800" height="684" key="#Intentions/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579371422601" />
-    <state x="2351" y="127" width="1048" height="859" key="#Project_Structure" timestamp="1579553044722">
+    <state x="2475" y="215" width="800" height="684" key="#Notifications" timestamp="1580088981532">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2351" y="127" width="1048" height="859" key="#Project_Structure/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579553044722" />
+    <state x="2475" y="215" width="800" height="684" key="#Notifications/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580088981532" />
+    <state x="2144" y="127" width="1255" height="859" key="#Project_Structure" timestamp="1580090366580">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2144" y="127" width="1255" height="859" key="#Project_Structure/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580090366580" />
     <state x="2589" y="166" width="571" height="782" key="#ScalaTests_in_'retirement_calculator'" timestamp="1579372052032">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -331,18 +377,18 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2613" y="311" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579557046632" />
-    <state x="2338" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579743395246">
+    <state x="2338" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580090436025">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2338" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743395246" />
+    <state x="2338" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580090436025" />
     <state x="200" y="65" width="1710" height="860" maximized="true" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579743363872">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="200" y="65" width="1710" height="860" maximized="true" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743363872" />
-    <state x="2597" y="359" width="556" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579743558993">
+    <state x="2597" y="359" width="556" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580089610546">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2597" y="359" width="556" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743558993" />
+    <state x="2597" y="359" width="556" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580089610546" />
     <state x="2688" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1579471495133">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -351,6 +397,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2626" y="258" width="669" height="579" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579373731364" />
+    <state x="643" y="269" width="624" height="548" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580002030928">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="643" y="269" width="624" height="548" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1580002030928" />
     <state x="2659" y="415" width="441" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579560631152">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -363,26 +413,27 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2526" y="302" width="524" height="491" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579373814282" />
-    <state x="2663" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1579743898549">
+    <state x="2663" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580091058117">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2663" y="311" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743898549" />
-    <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1579743969567">
+    <state x="743" y="330" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1580002061640" />
+    <state x="2663" y="311" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580091058117" />
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1580090559707">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743969567" />
-    <state width="1878" height="269" key="GridCell.Tab.0.center" timestamp="1579743969567">
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580090559707" />
+    <state width="1878" height="269" key="GridCell.Tab.0.center" timestamp="1580090559707">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743969567" />
-    <state width="1878" height="269" key="GridCell.Tab.0.left" timestamp="1579743969567">
+    <state width="1878" height="269" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580090559707" />
+    <state width="1878" height="269" key="GridCell.Tab.0.left" timestamp="1580090559707">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743969567" />
-    <state width="1878" height="269" key="GridCell.Tab.0.right" timestamp="1579743969567">
+    <state width="1878" height="269" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580090559707" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right" timestamp="1580090559707">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="269" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579743969567" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580090559707" />
     <state width="1878" height="332" key="GridCell.Tab.1.bottom" timestamp="1579561738894">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -399,15 +450,15 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="332" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579561738894" />
-    <state x="2087" y="126" width="1412" height="836" key="SettingsEditor" timestamp="1579553348545">
+    <state x="2240" y="169" width="1412" height="836" key="SettingsEditor" timestamp="1580090266409">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2087" y="126" width="1412" height="836" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579553348545" />
-    <state x="639" y="398" key="com.intellij.ide.util.TipDialog" timestamp="1579556049442">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="2240" y="169" width="1412" height="836" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580090266409" />
+    <state x="2559" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1580090279162">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="639" y="398" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1579556049441" />
-    <state x="2559" y="381" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579554724230" />
+    <state x="639" y="398" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1580002025581" />
+    <state x="2559" y="381" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580090279162" />
     <state x="2613" y="546" width="546" height="227" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579373729794">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -416,6 +467,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2493" y="109" width="774" height="888" key="find.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1579559914978" />
+    <state x="2291" y="280" width="1168" height="553" key="new project wizard" timestamp="1580089727313">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2291" y="280" width="1168" height="553" key="new project wizard/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1580089727313" />
     <state x="2543" y="259" key="search.everywhere.popup" timestamp="1579372833513">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

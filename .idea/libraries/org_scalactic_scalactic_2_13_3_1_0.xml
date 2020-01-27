@@ -6,7 +6,15 @@
       <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar!/" />
       <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.13.1/scala-reflect-2.13.1.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalactic/scalactic_2.13/3.1.0/scalactic_2.13-3.1.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.13.1/scala-reflect-2.13.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalactic/scalactic_2.13/3.1.0/scalactic_2.13-3.1.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.13.1/scala-reflect-2.13.1-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
